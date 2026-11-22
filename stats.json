@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-21T20:24:22.827818",
-  "total_channels": 10,
+  "last_update": "2026-11-22T00:37:37.736403",
+  "total_channels": 11,
   "channels": [
     {
       "name": "beIN Sports 1",
@@ -49,6 +49,11 @@
     },
     {
       "name": "A Spor",
+      "url": "https://css.d6e3eds5e065t5.help//aspor/tracks-v1a1/mono.m3u8",
+      "group": "Spor"
+    },
+    {
+      "name": "Tivibu Spor 1",
       "url": "https://css.d6e3eds5e065t5.help//aspor/tracks-v1a1/mono.m3u8",
       "group": "Spor"
     }
