@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-22T07:45:16.480719",
-  "total_channels": 11,
+  "last_update": "2026-11-22T15:54:46.555972",
+  "total_channels": 10,
   "channels": [
     {
       "name": "beIN Sports 1",
@@ -34,7 +34,7 @@
     },
     {
       "name": "beIN Sports Max 2",
-      "url": "https://css.d6e3eds5e065t5.help//bm2/tracks-v1a1/mono.m3u8",
+      "url": "https://css.d6e3eds5e065t5.help//bm1/tracks-v1a1/mono.m3u8",
       "group": "Spor"
     },
     {
@@ -49,11 +49,6 @@
     },
     {
       "name": "A Spor",
-      "url": "https://css.d6e3eds5e065t5.help//aspor/tracks-v1a1/mono.m3u8",
-      "group": "Spor"
-    },
-    {
-      "name": "Tivibu Spor 1",
       "url": "https://css.d6e3eds5e065t5.help//aspor/tracks-v1a1/mono.m3u8",
       "group": "Spor"
     }

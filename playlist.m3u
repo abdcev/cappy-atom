@@ -1,6 +1,6 @@
 #EXTM3U
-# Guncelleme: 2026-11-22 07:45:16.480539
-# Toplam: 11
+# Guncelleme: 2026-11-22 15:54:46.555764
+# Toplam: 10
 
 #EXTINF:-1 tvg-name="beIN Sports 1" group-title="Spor",beIN Sports 1
 https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//beyin1/tracks-v1a1/mono.m3u8
@@ -21,7 +21,7 @@ https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//b5/t
 https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//bm1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports Max 2" group-title="Spor",beIN Sports Max 2
-https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//bm2/tracks-v1a1/mono.m3u8
+https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//bm1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="S Sport" group-title="Spor",S Sport
 https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//ss/tracks-v1a1/mono.m3u8
@@ -30,8 +30,5 @@ https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//ss/t
 https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//ss2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="A Spor" group-title="Spor",A Spor
-https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//aspor/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Spor",Tivibu Spor 1
 https://ronaldo.magnitude.workers.dev/?url=https://css.d6e3eds5e065t5.help//aspor/tracks-v1a1/mono.m3u8
 
